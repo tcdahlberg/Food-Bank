@@ -3,6 +3,7 @@ project:
     name: Food-Bank
     package:
         name:  Food-Bank
+        namespace: slartibartfast
         api_version: '48.0'
     source_format: sfdx
 
